@@ -85,6 +85,10 @@ circuito y su tabla de verdad.
 Para poder ayudarlo tu deberás:
 
 * Implementar una clase GarageGate utilizando las abstracciones antes definidas.
+
+## Diagrama UML
+<img width="1073" height="340" alt="image" src="https://github.com/user-attachments/assets/2865eb78-827a-44f6-89b0-5b4598efa30a" />
+
 * Realizar los casos de prueba que validen el correcto funcionamiento de la puerta.
 
 ## Uso de ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)
